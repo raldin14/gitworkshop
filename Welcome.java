@@ -3,5 +3,6 @@ public class Welcome{
         System.out.println("Welcome to my app");
         System.out.println("Pre commit test");
         System.out.println("PayPal");
+        System.out.println("GPay");
     }
 }
